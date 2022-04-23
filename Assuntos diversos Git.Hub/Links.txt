@@ -1,2 +1,2 @@
-baixar GitHub: https://desktop.github.com/
-baixar Git:https://git-scm.com/downloads
+[baixar GitHub](https://desktop.github.com/)
+[baixar Git](https://git-scm.com/downloads)
