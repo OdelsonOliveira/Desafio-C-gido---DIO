@@ -1,2 +1,4 @@
-[baixar GitHub](https://desktop.github.com/)
+🌏 **Iniciando o dominio do Git/GitHub**
+
+[baixar Github](https://desktop.github.com)
 [baixar Git](https://git-scm.com/downloads)
